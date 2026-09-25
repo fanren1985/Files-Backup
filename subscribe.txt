@@ -4,7 +4,6 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/main/iptv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
@@ -19,6 +18,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/iptv-api-cctv/maste
 https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV/master/output/ipv4/result.m3u
+https://guovin.github.io/iptv-api/result.txt
 https://live.zhoujie218.top/tv/iptv4.txt
 https://iptv.zsdc.eu.org/home/iptv.m3u8
 
