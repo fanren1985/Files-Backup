@@ -10,10 +10,11 @@ name: 'Update schedule'
 # If scheduled execution is required, use other deployment methods.
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '45 19 * * 4'   # 北京时间每周五凌晨 3:45 = UTC 周四 19:45
 
+  workflow_dispatch:
+  
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
