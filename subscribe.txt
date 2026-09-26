@@ -5,7 +5,6 @@
 
 https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/main/iptv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u
@@ -14,7 +13,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/main/iptv.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/zhi35/iptv/master/iptv.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/iptv-api-cctv/master/output/cctv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV/master/output/ipv4/result.m3u
