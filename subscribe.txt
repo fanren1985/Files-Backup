@@ -18,8 +18,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/iptv-api-cctv/maste
 https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV/master/output/ipv4/result.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/CUTV.txt
 https://guovin.github.io/iptv-api/result.txt
 https://live.zhoujie218.top/tv/iptv4.txt
 https://iptv.zsdc.eu.org/home/iptv.m3u8
